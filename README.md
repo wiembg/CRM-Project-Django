@@ -12,5 +12,5 @@ Customer relationship management (CRM) app built with Django framework
 - userRolePermissions#decorator.py
 - user profile settings account   
 - reset password views #uth_views 
-- db: psycopg2 configre stettings aws aws management console RDS host server
+- db: psycopg2 configre settings
 
