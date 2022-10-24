@@ -13,4 +13,4 @@ Customer relationship management (CRM) app built with Django framework
 - user profile settings account   
 - reset password views #uth_views 
 - db: psycopg2 configre settings
-- signals: senders and receivers,extended User-> profile,signals allow certain senders to notify a set of receivers that some action has taken place so allow, when user is created , profile is created attached to username
+- signals: senders and receivers,extended User-> profile,signals allow certain senders to notify a set of receivers that some action has taken place so allow, when user is created , profile is created attached to username,so signals are pieces of code which contain information about what is happening. A dispatcher is used to sending the signals and listen for those signals.
