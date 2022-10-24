@@ -1,5 +1,5 @@
 # CRM-Django_project
-Customer relationship management (CRM) app built with Django framework 4.0
+Customer relationship management (CRM) app built with Django framework 
 
 - configuring :static_files /media_files
 - -creating adminpanel and custimize it :
